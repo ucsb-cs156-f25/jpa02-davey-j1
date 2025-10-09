@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-f25/jpa02-davey-j1
 
-deployed at: https://davey-j1.dokku-04.cs.ucsb.edu
+deployed at: https://jpa02-davey-j1.dokku-04.cs.ucsb.edu/
 
 
 # About this repo
